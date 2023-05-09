@@ -64,8 +64,9 @@ width="200" height="200"></a>
 
 
 ## OUTPUT
+![Screenshot (45)](https://user-images.githubusercontent.com/127816678/236992230-c69f5cd4-b55e-4658-8c22-b83bfd5cba6f.png)
 
-![Screenshot (45)](https://user-images.githubusercontent.com/127816678/236992045-1a795669-5fa3-4d7a-b30d-f02ec3042477.png)
+
 
 
 ## RESULT
